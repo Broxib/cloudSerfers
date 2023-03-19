@@ -1,0 +1,33 @@
+room_size,room_temperature,outside_temperature,sun_exposure,sun_hours,time_of_day,season,desired_temperature
+single,20,10,1,4,morning,winter,22
+double,21,12,2,5,afternoon,spring,22
+triple,22,11,3,6,morning,summer,23
+single studio,23,9,1,4,afternoon,fall,24
+double studio,24,8,2,5,morning,winter,25
+single,13.0,5.4,2,4.0,afternoon,spring,19.41
+single,-4.0,5.1,3,4.0,afternoon,spring,10.24
+single,-4.0,5.1,3,32.0,afternoon,spring,10.24
+double studio,-4.0,5.1,1,3.0,afternoon,spring,10.5
+single,-4.0,4.8,2,4.0,afternoon,spring,10.32
+single,18.0,4.8,3,2.0,afternoon,spring,22.3
+single,18.0,4.3,2,3.0,afternoon,spring,22.44
+double,18.0,4.3,3,2.0,afternoon,spring,22.52
+double,18.0,4.3,3,2.0,afternoon,spring,22.52
+single,18.0,4.3,1,3.0,afternoon,spring,22.44
+single,18.0,4.3,3,2.0,afternoon,spring,22.44
+double,18.0,4.3,1,1.0,afternoon,spring,22.52
+single,18.0,4.3,2,5.0,afternoon,spring,22.44
+double,18.0,4.3,3,2.0,afternoon,spring,22.52
+double,18.0,4.3,3,1.0,afternoon,spring,22.52
+single,18.0,4.3,3,2.0,afternoon,spring,22.44
+single,18.0,4.3,3,10.0,afternoon,spring,22.44
+double,18.0,4.3,3,4.0,afternoon,spring,22.52
+single,18.0,4.2,3,5.0,morning,spring,22.51
+single,18.0,4.2,3,1.0,morning,spring,22.51
+double studio,18.0,4.2,3,1.0,morning,spring,22.77
+single,18.0,3.9,1,5.0,morning,spring,22.59
+single,18.0,3.9,2,3.0,morning,spring,22.59
+single,18.0,6.2,1,3.0,morning,spring,21.95
+single,18.0,6.2,1,19.0,morning,spring,21.95
+single,18.0,6.2,3,1.0,morning,spring,21.95
+single,18.0,8.6,1,2.0,morning,spring,21.28
